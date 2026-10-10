@@ -43,7 +43,7 @@
 ### 💻 I code in
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,selenium,postman,mongodb,github,salesforce,vscode,eclipse,idea" />
+  <img src="https://skillicons.dev/icons?i=java,selenium,postman,mongodb,github,vscode,eclipse,idea" />
 </p>
 
 ---
