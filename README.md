@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/iswarya-lakshmi-s-6a9070190"><img src="https://img.shields.io/badge/LinkedIn-Iswarya_Lakshmi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:iswaryadul.05@gmail.com"><img src="https://img.shields.io/badge/Email-iswaryadul.05%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:iswarya663@gmail.com"><img src="https://img.shields.io/badge/Email-iswaryadul.05%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -43,7 +43,7 @@
 ### 💻 I code in
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,selenium,postman,mabl,mysql,mongodb,github,githubcopilot(AI),salesforce,vscode,eclipse,idea" />
+  <img src="https://skillicons.dev/icons?i=java,selenium,postman,mongodb,github,salesforce,vscode,eclipse,idea" />
 </p>
 
 ---
