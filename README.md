@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/iswarya-lakshmi-s-6a9070190"><img src="https://img.shields.io/badge/LinkedIn-Iswarya_Lakshmi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:iswarya663@gmail.com"><img src="https://img.shields.io/badge/Email-iswaryadul.05%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:iswarya663@gmail.com"><img src="https://img.shields.io/badge/Email-iswarya663%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -67,12 +67,19 @@
 
 ---
 
-### 🧩 Frameworks
+### 🧩 Frameworks & Pipelines
 
 <p>
   <img src="https://img.shields.io/badge/TestNG-Testing_Framework-FF6F00?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Cucumber-BDD_Framework-23D96C?style=for-the-badge&logo=cucumber&logoColor=white" />
+  <img src="https://img.shields.io/badge/Maven-Build_Tool-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
+  <img src="https://img.shields.io/badge/Selenium-Automation-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI/CD-Pipeline-4285F4?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-Agile_Management-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bitbucket-Version_Control-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bamboo-CI/CD_Tool-2E8B57?style=for-the-badge&logo=atlassian&logoColor=white" />
 </p>
+
 
 ---
 
