@@ -27,4 +27,78 @@
 
 | Role | Where | Period |
 | ---- | ----- | ------ |
-| Software Test Engineer | Wipro Technologies (Client: Charles
+| Software Test Engineer | Wipro Technologies (Client: Charles Schwab) | Mar 2022 – Present |
+| B.E. Computer Science | Adhiyamaan College of Engineering, Hosur | 2017 – 2021 |
+
+---
+
+### 🧠 By the numbers
+
+| 💻 Projects Tested | 🧪 Automation Coverage | 🧩 APIs Validated | 🏆 Certifications |
+| :---: | :---: | :---: | :---: |
+| 15+ enterprise modules | 80%+ automated workflows | 100+ REST endpoints | Microsoft Certified – GitHub Copilot |
+
+---
+
+### 💻 I code in
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,selenium,postman,mysql,mongodb,git,github,bitbucket,vscode,eclipse,idea" />
+</p>
+
+---
+
+### 🛠️ Tools I use
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,idea,eclipse,git,notion,figma,photoshop" />
+</p>
+
+---
+
+### 🤝 Let us connect
+
+<p>
+  <a href="https://www.linkedin.com/in/iswarya-lakshmi-s-6a9070190"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:iswaryadul.05@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+### 📈 GitHub and LeetCode Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=iswarya-lakshmi&show_icons=true&hide=issues,contribs&theme=dark&title_color=D35400&icon_color=C0392B&text_color=ffffff&bg_color=0d1117&border_color=C0392B" />
+  <a href="https://leetcode.com/u/iswaryalakshmi"><img height="170" src="https://leetcard.jacoblin.cool/iswaryalakshmi?ext=contest&theme=dark" /></a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iswarya-lakshmi&bg_color=0d1117&color=ffffff&line=D35400&point=ffffff&area=true&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="http://hits.dwyl.com/iswarya-lakshmi/iswarya-lakshmi.svg" />
+</p>
+
+---
+
+### 🏆 Achievements
+
+- 🥇 Microsoft Certified – GitHub Copilot Professional  
+- 🏐 Represented **Tamil Nadu** in State Volleyball Championships  
+- 🏅 Represented **Anna University Sports Board** in volleyball competitions  
+
+---
+
+### 💬 Soft Skills
+
+Analytical Thinking • Problem Solving • Communication • Team Collaboration • Time Management • Adaptability • Quick Learning
+
+---
+
+### ⚡ Fun fact
+
+I love combining creativity and logic — whether it’s debugging automation scripts or spiking a volleyball!
+
+---
+
