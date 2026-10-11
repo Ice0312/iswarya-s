@@ -95,7 +95,7 @@
 
 ---
 
-### 📈 GitHub and LeetCode Stats
+### 📈 GitHub and LeetCode Status
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=iswarya-lakshmi&show_icons=true&hide=issues,contribs&theme=dark&title_color=D35400&icon_color=C0392B&text_color=ffffff&bg_color=0d1117&border_color=C0392B" />
