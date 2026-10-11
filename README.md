@@ -112,6 +112,18 @@
 
 ---
 
+### 🏆 Honors & Awards
+markdown
+- **Atlas Awards (Individual)** – *March 2025*  
+  *Associated with Wipro*  
+  Recognized for outstanding individual performance and excellence in project delivery.
+
+- **Victory League** – *December 2024*  
+  *Associated with Wipro*  
+  Received this award for Outstanding Collaboration, Hard Work, and Dedication.
+
+---
+
 ### 🏆 Achievements
 
 - 🥇 Microsoft Certified – GitHub Copilot Professional  
