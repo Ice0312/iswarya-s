@@ -79,7 +79,7 @@
   <img src="https://img.shields.io/badge/Selenium-Automation-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
   <img src="https://img.shields.io/badge/CI/CD-Pipeline-4285F4?style=for-the-badge&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/Jira-Agile_Management-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bitbucket-Version_Control-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bitbucket,GitHub-Version_Control-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" />
   <img src="https://img.shields.io/badge/Bamboo-CI/CD_Tool-2E8B57?style=for-the-badge&logo=atlassian&logoColor=white" />
 </p>
 
