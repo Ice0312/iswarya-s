@@ -56,11 +56,14 @@
   <img src="https://img.shields.io/badge/Splunk-Monitoring-000000?style=for-the-badge&logo=splunk&logoColor=white" />
   <img src="https://img.shields.io/badge/Jira-Project_Tracking-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Copilot-AI_Coding-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mabl-Test_Automation-5C2D91?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mabl-API_Testing-5C2D91?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Intellij_IDEA-Automation_Testing-FF6F00?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-Automation_Testing-FF6F00?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Salesforce-CRM-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
   <img src="https://img.shields.io/badge/ClientCentral-Mainframe_Tools-2E86C1?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-Database-336791?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-Database-336791?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Eclipse-Webdriver-FF6F00?style=for-the-badge&logoColor=white" />
 </p>
 
 </p>
@@ -123,8 +126,8 @@ Analytical Thinking • Problem Solving • Communication • Team Collaboration
 
 ---
 
-### ⚡ Fun fact
+### ⚡  Fact
 
-I love combining creativity and logic — whether it’s debugging automation scripts.
+I love combining creativity and logic — it’s debugging automation scripts.
 
 ---
